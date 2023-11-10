@@ -1,4 +1,4 @@
-Project 1/4, created with React/HTML/CSS/JavaScript. 
+Programming Project, created with React/HTML/CSS/JavaScript. 
 
 Includes prototype side for a GPT-3 introduction website with modern elements.
 
